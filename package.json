@@ -1,8 +1,8 @@
 {
-  "name": "delivery-app",
+  "name": "delivery_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sopelniak.github.io/delivery-app/",
+  "homepage": "https://Sopelniak.github.io/delivery_app",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
